@@ -1,0 +1,2001 @@
+Where They Lie
+
+# BITSY VERSION 5.3
+
+! ROOM_FORMAT 1
+
+PAL 0
+NAME Funeral Palette
+98,31,128
+209,118,94
+255,247,255
+
+PAL 1
+NAME Battle Hungry
+122,1,168
+230,22,61
+214,3,3
+
+PAL 2
+NAME Blackout
+0,0,0
+0,0,0
+0,0,0
+
+PAL 3
+NAME Falling
+255,16,59
+255,187,122
+255,255,255
+
+PAL 4
+NAME Island
+182,231,254
+255,199,159
+113,68,116
+
+ROOM 0
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+e,c,a,a,a,a,a,a,a,a,c,a,a,a,a,d
+k,g,b,b,b,m,m,m,m,m,m,b,b,b,f,j
+f,g,b,b,b,0,0,0,p,0,0,b,b,b,g,f
+0,f,b,b,b,0,0,h,i,0,0,b,b,b,0,g
+0,s,0,0,0,o,l,l,l,l,o,0,0,0,s,0
+0,s,0,0,0,0,j,0,0,0,0,0,j,0,s,0
+0,0,n,n,n,n,n,f,0,n,n,n,n,n,j,0
+0,g,n,n,n,n,n,j,g,n,n,n,n,n,0,0
+j,s,0,0,0,0,0,0,0,f,0,j,f,0,s,k
+0,f,n,n,n,0,n,0,0,n,n,n,n,n,j,0
+0,0,n,n,n,n,n,g,0,n,n,n,n,n,0,g
+0,s,j,0,0,0,f,0,f,0,k,g,0,0,s,0
+j,k,n,n,n,n,n,0,0,n,n,n,n,n,0,0
+0,0,n,n,n,n,n,k,0,n,n,n,n,n,k,0
+k,0,0,0,0,0,s,0,0,s,0,0,0,0,0,j
+NAME Ceremony Start
+ITM 1 5,9
+EXT 5,9 1 5,10
+PAL 0
+
+ROOM 1
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+e,c,a,a,a,a,a,a,a,a,c,a,a,a,a,d
+k,g,b,b,b,m,m,m,m,m,m,b,b,b,f,j
+f,g,b,b,b,0,0,p,0,0,0,b,b,b,g,f
+0,f,b,b,b,0,0,h,i,0,0,b,b,b,0,g
+0,s,0,0,0,o,l,l,l,l,o,0,0,0,s,0
+0,s,0,0,0,0,j,0,0,0,0,0,j,0,s,0
+0,0,n,n,n,n,n,f,0,n,n,n,n,n,j,0
+0,g,n,n,n,n,n,j,g,n,n,n,n,n,0,0
+j,s,0,0,0,0,0,0,0,f,0,j,f,0,s,k
+0,f,n,n,n,0,n,0,0,n,n,n,n,n,j,0
+0,0,n,n,n,n,n,g,0,n,n,n,n,n,0,g
+0,s,j,0,0,0,f,0,f,0,k,g,0,0,s,0
+j,k,n,n,n,n,n,0,0,n,n,n,n,n,0,0
+0,0,n,n,n,n,n,k,0,n,n,n,n,n,k,0
+k,0,0,0,0,0,s,0,0,s,0,0,0,0,0,j
+NAME Ceremony A
+ITM 1 5,9
+EXT 5,9 2 5,10
+PAL 0
+
+ROOM 2
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+e,c,a,a,a,a,a,a,a,a,c,a,a,a,a,d
+k,g,b,b,b,m,m,m,m,m,m,b,b,b,f,j
+f,g,b,b,b,0,0,0,p,0,0,b,b,b,g,f
+0,f,b,b,b,0,0,h,i,0,0,b,b,b,0,g
+0,s,0,0,0,o,l,l,l,l,o,0,0,0,s,0
+0,s,0,0,0,0,j,0,0,0,0,0,j,0,s,0
+0,0,n,n,n,n,n,f,0,n,n,n,n,n,j,0
+0,g,n,n,n,n,n,j,g,n,n,n,n,n,0,0
+j,s,0,0,0,0,0,0,0,f,0,j,f,0,s,k
+0,f,n,n,n,0,n,0,0,n,n,n,n,n,j,0
+0,0,n,n,n,n,n,g,0,n,n,n,n,n,0,g
+0,s,j,0,0,0,f,0,f,0,k,g,0,0,s,0
+j,k,n,n,n,n,n,0,0,n,n,n,n,n,0,0
+0,0,n,n,n,n,n,k,0,n,n,n,n,n,k,0
+k,0,0,0,0,0,s,0,0,s,0,0,0,0,0,j
+NAME Ceremony B
+ITM 1 5,9
+EXT 5,9 3 5,10
+PAL 0
+
+ROOM 3
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+e,c,a,a,a,a,a,a,a,a,c,a,a,a,a,d
+k,g,b,b,b,m,m,m,m,m,m,b,b,b,f,j
+f,g,b,b,b,0,0,p,0,0,0,b,b,b,g,f
+0,f,b,b,b,0,0,h,i,0,0,b,b,b,0,g
+0,s,0,0,0,o,l,l,l,l,o,0,0,0,s,0
+0,s,0,0,0,0,j,0,0,0,0,0,j,0,s,0
+0,0,n,n,n,n,n,f,0,n,n,n,n,n,j,0
+0,g,n,n,n,n,n,j,g,n,n,n,n,n,0,0
+j,s,0,0,0,0,0,0,0,f,0,j,f,0,s,k
+0,f,n,n,n,0,n,0,0,n,n,n,n,n,j,0
+0,0,n,n,n,n,n,g,0,n,n,n,n,n,0,g
+0,s,j,0,0,0,f,0,f,0,k,g,0,0,s,0
+j,k,n,n,n,n,n,0,0,n,n,n,n,n,0,0
+0,0,n,n,n,n,n,k,0,n,n,n,n,n,k,0
+k,0,0,0,0,0,s,0,0,s,0,0,0,0,0,j
+NAME Ceremony C
+ITM 1 5,9
+EXT 5,9 4 5,10
+PAL 0
+
+ROOM 4
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+e,c,a,a,a,a,a,a,a,a,c,a,a,a,a,d
+k,g,b,b,b,m,m,m,m,m,m,b,b,b,f,j
+f,g,b,b,b,0,0,0,p,0,0,b,b,b,g,f
+0,f,b,b,b,0,0,h,i,0,0,b,b,b,0,g
+0,s,0,0,0,o,l,l,l,l,o,0,0,0,s,0
+0,s,0,0,0,0,j,0,0,0,0,0,j,0,s,0
+0,0,n,n,n,n,n,f,0,n,n,n,n,n,j,0
+0,g,n,n,n,n,n,j,g,n,n,n,n,n,0,0
+j,s,0,0,0,0,0,0,0,f,0,j,f,0,s,k
+0,f,n,n,n,0,n,0,0,n,n,n,n,n,j,0
+0,0,n,n,n,n,n,g,0,n,n,n,n,n,0,g
+0,s,j,0,0,0,f,0,f,0,k,g,0,0,s,0
+j,k,n,n,n,n,n,0,0,n,n,n,n,n,0,0
+0,0,n,n,n,n,n,k,0,n,n,n,n,n,k,0
+k,0,0,0,0,0,s,0,0,s,0,0,0,0,0,j
+NAME Ceremony D
+ITM 1 5,9
+EXT 5,9 5 5,10
+PAL 0
+
+ROOM 5
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+e,c,a,a,a,a,a,a,a,a,c,a,a,a,a,d
+k,g,b,b,b,m,m,m,m,m,m,b,b,b,f,j
+f,g,b,b,b,0,0,p,0,0,0,b,b,b,g,f
+0,f,b,b,b,0,0,h,i,0,0,b,b,b,0,g
+0,s,0,0,0,o,l,l,l,l,o,0,0,0,s,0
+0,s,0,0,0,0,j,0,0,0,0,0,j,0,s,0
+0,0,n,n,n,n,n,f,0,n,n,n,n,n,j,0
+0,g,n,n,n,n,n,j,g,n,n,n,n,n,0,0
+j,s,0,0,0,0,0,0,0,f,0,j,f,0,s,k
+0,f,n,n,n,0,n,0,0,n,n,n,n,n,j,0
+0,0,n,n,n,n,n,g,0,n,n,n,n,n,0,g
+0,s,j,0,0,0,f,0,f,0,k,g,0,0,s,0
+j,k,n,n,n,n,n,0,0,n,n,n,n,n,0,0
+0,0,n,n,n,n,n,k,0,n,n,n,n,n,k,0
+k,0,0,0,0,0,s,0,0,s,0,0,0,0,0,j
+NAME Ceremony E
+ITM 1 5,9
+EXT 5,9 6 5,10
+PAL 0
+
+ROOM 6
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+e,c,a,a,a,a,a,a,a,a,c,a,a,a,a,d
+k,g,b,b,b,m,m,m,m,m,m,b,b,b,f,j
+f,g,b,b,b,0,0,0,p,0,0,b,b,b,g,f
+0,f,b,b,b,0,0,h,i,0,0,b,b,b,0,g
+0,s,0,0,0,o,l,l,l,l,o,0,0,0,s,0
+0,s,0,0,0,0,j,0,0,0,0,0,j,0,s,0
+0,0,n,n,n,n,n,f,0,n,n,n,n,n,j,0
+0,g,n,n,n,n,n,j,g,n,n,n,n,n,0,0
+j,s,0,0,0,0,0,0,0,f,0,j,f,0,s,k
+0,f,n,n,n,0,n,0,0,n,n,n,n,n,j,0
+0,0,n,n,n,n,n,g,0,n,n,n,n,n,0,g
+0,s,j,0,0,0,f,0,f,0,k,g,0,0,s,0
+j,k,n,n,n,n,n,0,0,n,n,n,n,n,0,0
+0,0,n,n,n,n,n,k,0,n,n,n,n,n,k,0
+k,0,0,0,0,0,s,0,0,s,0,0,0,0,0,j
+NAME Ceremony F
+ITM 1 5,9
+EXT 5,9 7 5,10
+PAL 0
+
+ROOM 7
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+e,c,a,a,a,a,a,a,a,a,c,a,a,a,a,d
+k,g,b,b,b,m,m,m,m,m,m,b,b,b,f,j
+f,g,b,b,b,0,0,p,0,0,0,b,b,b,g,f
+0,f,b,b,b,0,0,h,i,0,0,b,b,b,0,g
+0,s,0,0,0,o,l,l,l,l,o,0,0,0,s,0
+0,s,0,0,0,0,j,0,0,0,0,0,j,0,s,0
+0,0,n,n,n,n,n,f,0,n,n,n,n,n,j,0
+0,g,n,n,n,n,n,j,g,n,n,n,n,n,0,0
+j,s,0,0,0,0,0,0,0,f,0,j,f,0,s,k
+0,f,n,n,n,0,n,0,0,n,n,n,n,n,j,0
+0,0,n,n,n,n,n,g,0,n,n,n,n,n,0,g
+0,s,j,0,0,0,f,0,f,0,k,g,0,0,s,0
+j,k,n,n,n,n,n,0,0,n,n,n,n,n,0,0
+0,0,n,n,n,n,n,k,0,n,n,n,n,n,k,0
+k,0,0,0,0,0,s,0,0,s,0,0,0,0,0,j
+NAME Ceremony G
+ITM 1 5,9
+EXT 5,9 8 5,10
+PAL 0
+
+ROOM 8
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+e,c,a,a,a,a,a,a,a,a,c,a,a,a,a,d
+k,g,b,b,b,m,m,m,m,m,m,b,b,b,f,j
+f,g,b,b,b,0,0,0,p,0,0,b,b,b,g,f
+0,f,b,b,b,0,0,h,i,0,0,b,b,b,0,g
+0,s,0,0,0,o,l,l,l,l,o,0,0,0,s,0
+0,s,0,0,0,0,j,0,0,0,0,0,j,0,s,0
+0,0,n,n,n,n,n,f,0,n,n,n,n,n,j,0
+0,g,n,n,n,n,n,j,g,n,n,n,n,n,0,0
+j,s,0,0,0,0,0,0,0,f,0,j,f,0,s,k
+0,f,n,n,n,0,n,0,0,n,n,n,n,n,j,0
+0,0,n,n,n,n,n,g,0,n,n,n,n,n,0,g
+0,s,j,0,0,0,f,0,f,0,k,g,0,0,s,0
+j,k,n,n,n,n,n,0,0,n,n,n,n,n,0,0
+0,0,n,n,n,n,n,k,0,n,n,n,n,n,k,0
+k,0,0,0,0,0,s,0,0,s,0,0,0,0,0,j
+NAME Ceremony H
+ITM 1 5,9
+EXT 5,9 9 5,10
+PAL 0
+
+ROOM 9
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+e,c,a,a,a,a,a,a,a,a,c,a,a,a,a,d
+k,g,b,b,b,m,m,m,m,m,m,b,b,b,f,j
+f,g,b,b,b,0,0,0,0,p,0,b,b,b,g,f
+0,f,b,b,b,0,0,h,i,0,0,b,b,b,0,g
+0,s,0,0,0,o,l,l,l,l,o,0,0,0,s,0
+0,s,0,0,0,0,j,0,0,0,0,0,j,0,s,0
+0,0,n,n,n,n,n,f,0,n,n,n,n,n,j,0
+0,g,n,n,n,n,n,j,g,n,n,n,n,n,0,0
+j,s,0,0,0,0,0,0,0,f,0,j,f,0,s,k
+0,f,n,n,n,0,n,0,0,n,n,n,n,n,j,0
+0,0,n,n,n,n,n,g,0,n,n,n,n,n,0,g
+0,s,j,0,0,0,f,0,f,0,k,g,0,0,s,0
+j,k,n,n,n,n,n,0,0,n,n,n,n,n,0,0
+0,0,n,n,n,n,n,k,0,n,n,n,n,n,k,0
+k,0,0,0,0,0,s,0,0,s,0,0,0,0,0,j
+NAME Ceremony I
+ITM 1 5,9
+EXT 5,9 a 5,10
+PAL 0
+
+ROOM a
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+e,c,a,a,a,a,a,a,a,a,c,a,a,a,a,d
+k,g,b,b,b,m,m,m,m,m,m,b,b,b,f,j
+f,g,b,b,b,0,0,0,0,0,p,b,b,b,g,f
+0,f,b,b,b,0,0,h,i,0,0,b,b,b,0,g
+0,s,0,0,0,o,l,l,l,l,o,0,0,0,s,0
+0,s,0,0,0,0,j,0,0,0,0,0,j,0,s,0
+0,0,n,n,n,n,n,f,0,n,n,n,n,n,j,0
+0,g,n,n,n,n,n,j,g,n,n,n,n,n,0,0
+j,s,0,0,0,0,0,0,0,f,0,j,f,0,s,k
+0,f,n,n,n,0,n,0,0,n,n,n,n,n,j,0
+0,0,n,n,n,n,n,g,0,n,n,n,n,n,0,g
+0,s,j,0,0,0,f,0,f,0,k,g,0,0,s,0
+j,k,n,n,n,n,n,0,0,n,n,n,n,n,0,0
+0,0,n,n,n,n,n,k,0,n,n,n,n,n,k,0
+k,0,0,0,0,0,s,0,0,s,0,0,0,0,0,j
+NAME Ceremony Over
+ITM 2 9,3
+EXT 9,3 b 8,3
+EXT 7,15 d 7,1
+EXT 8,15 d 8,1
+PAL 0
+
+ROOM b
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+e,c,a,a,a,a,a,a,a,a,c,a,a,a,a,d
+k,g,b,b,b,m,m,m,m,m,m,b,b,b,f,j
+f,g,b,b,b,0,0,0,0,0,p,b,b,b,g,f
+0,f,b,b,b,0,0,h,i,0,0,b,b,b,0,g
+0,s,0,0,0,o,l,l,l,l,o,0,0,0,s,0
+0,s,0,0,0,0,j,0,0,0,0,0,j,0,s,0
+0,0,n,n,n,n,n,f,0,n,n,n,n,n,j,0
+0,g,n,n,n,n,n,j,g,n,n,n,n,n,0,0
+j,s,0,0,0,0,0,0,0,f,0,j,f,0,s,k
+0,f,n,n,n,0,n,0,0,n,n,n,n,n,j,0
+0,0,n,n,n,n,n,g,0,n,n,n,n,n,0,g
+0,s,j,0,0,0,f,0,f,0,k,g,0,0,s,0
+j,k,n,n,n,n,n,0,0,n,n,n,n,n,0,0
+0,0,n,n,n,n,n,k,0,n,n,n,n,n,k,0
+k,0,0,0,0,0,s,0,0,s,0,0,0,0,0,j
+NAME After Speech
+EXT 7,15 c 7,1
+EXT 8,15 c 8,1
+PAL 0
+
+ROOM c
+z,t,t,t,t,t,t,0,0,t,t,t,t,t,t,y
+v,0,0,0,0,g,f,0,0,g,0,0,0,0,0,u
+v,0,0,0,0,0,j,0,0,f,0,0,0,0,0,u
+v,0,11,12,15,14,0,k,g,j,0,0,11,12,0,u
+v,0,0,0,0,0,0,0,f,0,0,0,0,0,0,u
+v,0,0,0,0,0,0,0,0,0,0,0,0,0,0,u
+v,0,13,15,14,13,0,j,0,0,0,11,13,12,0,u
+v,0,0,0,0,0,k,f,g,0,0,0,0,0,0,u
+v,0,0,0,0,0,0,k,0,0,0,0,0,0,0,u
+v,0,11,12,0,0,j,0,g,f,0,15,16,14,0,u
+v,0,0,0,0,0,g,0,j,0,0,0,0,0,0,u
+v,0,0,0,0,f,0,k,0,0,0,0,0,0,0,u
+v,0,13,15,14,0,g,j,0,0,13,13,11,12,0,u
+v,0,0,0,0,0,0,0,k,0,0,0,0,0,0,u
+v,0,0,0,0,0,0,g,0,f,0,0,0,0,0,u
+10,w,w,w,w,w,w,w,w,w,w,w,w,w,w,x
+NAME Speech Over Town
+ITM 5 12,7
+EXT 7,0 b 7,14
+EXT 8,0 b 8,14
+EXT 12,7 f 12,7
+PAL 0
+
+ROOM d
+z,t,t,t,t,t,t,0,0,t,t,t,t,t,t,y
+v,0,0,0,0,g,f,0,0,g,0,0,0,0,0,u
+v,0,0,0,0,0,j,0,0,f,0,0,0,0,0,u
+v,0,11,12,15,14,0,k,g,j,0,0,11,12,0,u
+v,0,0,0,0,0,0,0,f,0,0,0,0,0,0,u
+v,0,0,0,0,0,0,0,0,0,0,0,0,0,0,u
+v,0,13,15,14,13,0,j,0,0,0,11,13,12,0,u
+v,0,0,0,0,0,k,f,g,0,0,0,0,0,0,u
+v,0,0,0,0,0,0,k,0,0,0,0,0,0,0,u
+v,0,11,12,0,0,j,0,g,f,0,15,16,14,0,u
+v,0,0,0,0,0,g,0,j,0,0,0,0,0,0,u
+v,0,0,0,0,f,0,k,0,0,0,0,0,0,0,u
+v,0,13,15,14,0,g,j,0,0,13,13,11,12,0,u
+v,0,0,0,0,0,0,0,k,0,0,0,0,0,0,u
+v,0,0,0,0,0,0,g,0,f,0,0,0,0,0,u
+10,w,w,w,w,w,w,w,w,w,w,w,w,w,w,x
+NAME Funeral Over Town
+EXT 7,0 a 7,14
+EXT 8,0 a 8,14
+END undefined 12,7
+PAL 0
+
+ROOM e
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+e,c,a,a,a,a,a,a,a,a,c,a,a,a,a,d
+k,g,0,0,18,0,0,17,0,0,0,18,0,0,f,j
+f,g,0,0,18,0,0,0,0,0,0,18,0,0,g,f
+0,f,0,0,18,0,0,0,0,0,0,18,0,0,0,g
+0,0,0,0,18,0,0,0,0,0,0,18,0,f,0,0
+0,0,0,0,18,0,0,0,0,0,0,18,j,0,0,0
+0,0,0,0,18,0,0,f,0,0,0,18,0,0,j,0
+0,g,0,0,18,0,0,j,g,0,0,18,0,0,0,0
+j,0,0,0,0,18,18,0,18,18,18,j,f,0,0,k
+0,f,0,0,0,0,18,0,0,18,0,0,0,0,j,0
+f,0,0,0,0,0,18,g,0,18,0,0,0,0,0,g
+0,0,j,0,0,0,18,0,f,18,k,g,0,0,0,0
+j,k,0,0,0,0,18,0,0,18,0,0,0,0,0,0
+0,0,0,0,0,0,18,k,0,18,0,0,0,0,k,0
+k,0,0,0,0,0,18,0,0,18,0,0,0,0,0,j
+NAME Return to letter
+ITM 2 7,8
+EXT 7,15 f 7,1
+EXT 8,15 f 8,1
+EXT 7,8 g 7,9
+PAL 0
+
+ROOM f
+z,t,t,t,t,t,t,0,0,t,t,t,t,t,t,y
+v,0,0,0,0,g,f,0,0,g,0,0,0,0,0,u
+v,0,0,0,0,0,j,0,0,f,0,0,0,0,0,u
+v,0,11,12,15,14,0,k,g,j,0,0,11,12,0,u
+v,0,0,0,0,0,0,0,f,0,0,0,0,0,0,u
+v,0,0,0,0,0,0,0,0,0,0,0,0,0,0,u
+v,0,13,15,14,13,0,j,0,0,0,11,13,12,0,u
+v,0,0,0,0,0,k,f,g,0,0,0,0,0,0,u
+v,0,0,0,0,0,0,k,0,0,0,0,0,0,0,u
+v,0,11,12,0,0,j,0,g,f,0,15,16,14,0,u
+v,0,0,0,0,0,g,0,j,0,0,0,0,0,0,u
+v,0,0,0,0,f,0,k,0,0,0,0,0,0,0,u
+v,0,13,15,14,0,g,j,0,0,13,13,11,12,0,u
+v,0,0,0,0,0,0,0,k,0,0,0,0,0,0,u
+v,0,0,0,0,0,0,g,0,f,0,0,0,0,0,u
+10,w,w,w,w,w,w,w,w,w,w,w,w,w,w,x
+NAME After Letter Village
+EXT 7,0 e 7,14
+EXT 8,0 e 8,14
+PAL 0
+
+ROOM g
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+e,c,a,a,a,a,a,a,a,a,c,a,a,a,a,d
+k,g,0,0,18,0,0,17,0,0,0,18,0,0,f,j
+f,g,0,0,18,0,0,0,0,0,0,18,0,0,g,f
+0,f,0,0,18,0,0,0,0,0,0,18,0,0,0,g
+0,0,0,0,18,0,0,0,0,0,0,18,0,f,0,0
+0,0,0,0,18,0,0,0,0,0,0,18,j,0,0,0
+0,0,0,0,18,0,0,f,0,0,0,18,0,0,j,0
+0,g,0,0,18,0,0,j,g,0,0,18,0,0,0,0
+j,0,0,0,0,18,18,0,18,18,18,j,f,0,0,k
+0,f,0,0,0,0,18,0,0,18,0,0,0,0,j,0
+f,0,0,0,0,0,18,g,0,18,0,0,0,0,0,g
+0,0,j,0,0,0,18,0,f,18,k,g,0,0,0,0
+j,k,0,0,0,0,18,0,0,18,0,0,0,0,0,0
+0,0,0,0,0,0,18,k,0,18,0,0,0,0,k,0
+k,0,0,0,0,0,18,0,0,18,0,0,0,0,0,j
+NAME After Speaking
+ITM 4 7,10
+ITM 4 8,10
+ITM 4 8,11
+ITM 4 7,11
+ITM 4 7,12
+ITM 4 8,12
+ITM 4 8,13
+ITM 4 7,13
+ITM 4 7,14
+ITM 4 8,14
+ITM 0 9,4
+ITM 2 7,8
+EXT 7,15 h 6,8
+EXT 8,15 h 6,8
+EXT 9,4 u 8,4
+PAL 0
+
+ROOM h
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME BlackOut
+ITM 6 6,7
+ITM 6 7,8
+ITM 6 6,9
+ITM 6 5,8
+ITM 4 6,8
+EXT 6,7 i 1,5
+EXT 7,8 i 14,13
+EXT 5,8 i 12,5
+EXT 6,9 j 8,8
+PAL 2
+
+ROOM i
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,r,r,r,r,q,r,q,r,q,r,q,r,q
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,19,19,19,r,q,r,q,r,q,r,q,r,q
+q,r,19,19,19,19,19,19,q,r,q,r,q,r,q,r
+r,19,19,19,19,19,19,19,19,19,19,19,19,q,r,q
+q,19,19,19,19,19,19,19,19,19,19,19,19,19,19,r
+r,19,19,19,19,19,19,19,19,19,19,19,19,19,19,q
+q,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19
+r,q,19,19,19,19,19,19,19,19,19,19,19,19,19,19
+q,r,19,19,19,19,19,19,19,19,19,19,19,19,19,19
+r,q,r,19,19,19,19,19,19,19,19,19,19,19,19,q
+q,r,q,19,19,19,19,19,19,19,19,19,19,19,19,r
+r,q,19,19,19,19,19,19,19,19,19,19,19,19,19,q
+q,19,19,19,19,19,19,19,19,19,19,19,q,r,q,r
+19,19,19,19,19,19,19,19,19,19,19,q,r,q,r,q
+NAME Main Island
+EXT 1,15 j 1,1
+EXT 2,15 k 2,1
+EXT 3,15 j 3,1
+EXT 4,15 j 4,1
+EXT 5,15 k 5,1
+EXT 6,15 j 6,1
+EXT 7,15 j 7,1
+EXT 8,15 k 8,1
+EXT 10,15 j 10,1
+EXT 9,15 j 9,1
+PAL 4
+
+ROOM j
+19,19,19,19,19,19,19,19,19,19,19,r,q,r,q,r
+r,19,19,19,19,19,19,19,19,19,19,19,r,q,r,q
+q,19,19,19,19,19,19,19,19,19,19,19,0,r,q,r
+r,q,19,19,19,19,19,19,19,19,19,19,r,q,r,q
+q,r,19,19,19,19,19,19,19,19,19,r,q,r,q,r
+r,q,r,19,19,19,19,19,19,19,r,q,r,q,r,q
+q,r,q,19,19,19,19,19,19,19,q,r,q,r,q,r
+r,q,r,q,19,19,19,19,19,19,r,q,r,q,r,q
+q,r,q,r,q,r,q,19,19,r,q,r,q,r,q,r
+r,q,r,q,r,q,r,q,r,q,r,q,r,q,r,q
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,q,r,q,r,q,r,q,r,q,r,q,r,q
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,19,19
+r,q,r,q,r,q,r,q,r,q,r,q,r,19,19,19
+q,r,q,r,q,r,q,r,q,r,q,r,19,19,19,19
+r,q,r,q,r,q,r,q,r,q,r,19,19,19,19,19
+NAME Shore
+ITM 7 13,14
+ITM 7 13,13
+ITM a 13,12
+ITM 9 14,13
+ITM 8 12,12
+ITM 6 11,2
+ITM b 6,6
+EXT 1,0 i 1,14
+EXT 2,0 i 2,14
+EXT 3,0 i 3,14
+EXT 4,0 i 4,14
+EXT 5,0 i 5,14
+EXT 10,0 i 10,14
+EXT 9,0 i 9,14
+EXT 8,0 i 8,14
+EXT 7,0 i 7,14
+EXT 6,0 i 6,14
+END 0 12,2
+PAL 4
+
+ROOM k
+19,19,19,19,19,19,19,19,19,19,19,r,q,r,q,r
+r,19,19,19,19,19,19,19,19,19,19,19,r,q,r,q
+q,19,19,19,19,19,19,19,19,19,19,19,q,r,q,r
+r,q,19,19,19,19,19,19,19,19,19,19,r,q,r,q
+q,r,19,19,19,19,19,19,19,19,19,r,q,r,q,r
+r,q,r,19,19,19,19,19,19,19,r,q,r,q,r,q
+q,r,q,19,19,19,19,19,19,19,q,r,q,r,q,r
+r,q,r,q,19,19,19,19,19,19,r,q,r,q,r,q
+q,r,q,r,q,r,q,19,19,r,q,r,q,r,q,r
+r,q,r,q,r,q,r,q,r,q,r,q,r,q,r,q
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,q,r,q,r,q,r,q,r,q,r,q,r,q
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,19,19
+r,q,r,q,r,q,r,q,r,q,r,q,r,19,19,19
+q,r,q,r,q,r,q,r,q,r,q,r,19,19,19,19
+r,q,r,q,r,q,r,q,r,q,r,19,19,19,19,19
+NAME Shore A
+ITM 7 13,14
+ITM 7 13,13
+ITM 7 13,12
+ITM 7 13,11
+ITM a 13,10
+ITM 8 12,10
+ITM 9 14,12
+ITM 8 12,13
+ITM 5 7,6
+ITM 2 11,2
+EXT 1,0 n 1,14
+EXT 2,0 n 2,14
+EXT 3,0 n 3,14
+EXT 4,0 n 4,14
+EXT 5,0 n 5,14
+EXT 10,0 n 10,14
+EXT 9,0 n 9,14
+EXT 8,0 n 8,14
+EXT 7,0 n 7,14
+EXT 6,0 n 6,14
+PAL 4
+
+ROOM l
+19,19,19,19,19,19,19,19,19,19,19,r,q,r,q,r
+r,19,19,19,19,19,19,19,19,19,19,19,r,q,r,q
+q,19,19,19,19,19,19,19,19,19,19,19,q,r,q,r
+r,q,19,19,19,19,19,19,19,19,19,19,r,q,r,q
+q,r,19,19,19,19,19,19,19,19,19,r,q,r,q,r
+r,q,r,19,19,19,19,19,19,19,r,q,r,q,r,q
+q,r,q,19,19,19,19,19,19,19,q,r,q,r,q,r
+r,q,r,q,19,19,19,19,19,19,r,q,r,q,r,q
+q,r,q,r,q,r,q,19,19,r,q,r,q,r,q,r
+r,q,r,q,r,q,r,q,r,q,r,q,r,q,r,q
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,q,r,q,r,q,r,q,r,q,r,q,r,q
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,19,19
+r,q,r,q,r,q,r,q,r,q,r,q,r,19,19,19
+q,r,q,r,q,r,q,r,q,r,q,r,19,19,19,19
+r,q,r,q,r,q,r,q,r,q,r,19,19,19,19,19
+NAME Shore B
+ITM 7 13,14
+ITM 7 13,13
+ITM 7 13,12
+ITM 7 13,11
+ITM 7 13,10
+ITM 7 13,9
+ITM 7 13,8
+ITM 7 13,7
+ITM a 13,6
+ITM 8 12,7
+ITM 8 12,10
+ITM 9 14,8
+ITM 9 14,12
+ITM 9 14,6
+ITM 5 7,6
+ITM 2 11,2
+EXT 1,0 o 1,14
+EXT 2,0 o 2,14
+EXT 3,0 o 3,14
+EXT 4,0 o 4,14
+EXT 5,0 o 5,14
+EXT 10,0 o 10,14
+EXT 9,0 o 9,14
+EXT 8,0 o 8,14
+EXT 7,0 o 7,14
+EXT 6,0 o 6,14
+PAL 4
+
+ROOM m
+19,19,19,19,19,19,19,19,19,19,19,r,q,r,q,r
+r,19,19,19,19,19,19,19,19,19,19,19,r,q,r,q
+q,19,19,19,19,19,19,19,19,19,19,19,q,r,q,r
+r,q,19,19,19,19,19,19,19,19,19,19,r,q,r,q
+q,r,19,19,19,19,19,19,19,19,19,r,q,r,q,r
+r,q,r,19,19,19,19,19,19,19,r,q,r,q,r,q
+q,r,q,19,19,19,19,19,19,19,q,r,q,r,q,r
+r,q,r,q,19,19,19,19,19,19,r,q,r,q,r,q
+q,r,q,r,q,r,q,19,19,r,q,r,q,r,q,r
+r,q,r,q,r,q,r,q,r,q,r,q,r,q,r,q
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,q,r,q,r,q,r,q,r,q,r,q,r,q
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,19,19
+r,q,r,q,r,q,r,q,r,q,r,q,r,19,19,19
+q,r,q,r,q,r,q,r,q,r,q,r,19,19,19,19
+r,q,r,q,r,q,r,q,r,q,r,19,19,19,19,19
+NAME Shore C
+ITM 7 13,14
+ITM 7 13,13
+ITM 7 13,12
+ITM 7 13,11
+ITM 7 13,10
+ITM 7 13,9
+ITM 7 13,8
+ITM 7 13,7
+ITM 7 13,6
+ITM 7 13,5
+ITM 7 13,4
+ITM 7 13,3
+ITM 8 12,9
+ITM 9 14,3
+ITM 9 14,7
+ITM 9 14,12
+ITM a 13,2
+ITM 8 12,5
+ITM 8 12,2
+ITM 8 12,11
+ITM 9 14,10
+ITM 5 7,6
+ITM 2 11,2
+EXT 1,0 p 1,14
+EXT 2,0 p 2,14
+EXT 3,0 p 3,14
+EXT 4,0 p 4,14
+EXT 5,0 p 5,14
+EXT 10,0 p 10,14
+EXT 9,0 p 9,14
+EXT 8,0 p 8,14
+EXT 7,0 p 7,14
+EXT 6,0 p 6,14
+PAL 4
+
+ROOM n
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,r,r,r,r,q,r,q,r,q,r,q,r,q
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,19,19,19,r,q,r,q,r,q,r,q,r,q
+q,r,19,19,19,19,19,19,q,r,q,r,q,r,q,r
+r,19,19,19,19,19,19,19,19,19,19,19,19,q,r,q
+q,19,19,19,19,19,19,19,19,19,19,19,19,19,19,r
+r,19,19,19,19,19,19,19,19,19,19,19,19,19,19,q
+q,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19
+r,q,19,19,19,19,19,19,19,19,19,19,19,19,19,19
+q,r,19,19,19,19,19,19,19,19,19,19,19,19,19,19
+r,q,r,19,19,19,19,19,19,19,19,19,19,19,19,q
+q,r,q,19,19,19,19,19,19,19,19,19,19,19,19,r
+r,q,19,19,19,19,19,19,19,19,19,19,19,19,19,q
+q,19,19,19,19,19,19,19,19,19,19,19,q,r,q,r
+19,19,19,19,19,19,19,19,19,19,19,q,r,q,r,q
+NAME Island A
+EXT 1,15 l 1,1
+EXT 2,15 k 2,1
+EXT 3,15 k 3,1
+EXT 4,15 l 4,1
+EXT 5,15 k 5,1
+EXT 6,15 k 6,1
+EXT 7,15 k 7,1
+EXT 8,15 k 8,1
+EXT 10,15 k 10,1
+EXT 9,15 l 9,1
+PAL 4
+
+ROOM o
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,r,r,r,r,q,r,q,r,q,r,q,r,q
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,19,19,19,r,q,r,q,r,q,r,q,r,q
+q,r,19,19,19,19,19,19,q,r,q,r,q,r,q,r
+r,19,19,19,19,19,19,19,19,19,19,19,19,q,r,q
+q,19,19,19,19,19,19,19,19,19,19,19,19,19,19,r
+r,19,19,19,19,19,19,19,19,19,19,19,19,19,19,q
+q,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19
+r,q,19,19,19,19,19,19,19,19,19,19,19,19,19,19
+q,r,19,19,19,19,19,19,19,19,19,19,19,19,19,19
+r,q,r,19,19,19,19,19,19,19,19,19,19,19,19,q
+q,r,q,19,19,19,19,19,19,19,19,19,19,19,19,r
+r,q,19,19,19,19,19,19,19,19,19,19,19,19,19,q
+q,19,19,19,19,19,19,19,19,19,19,19,q,r,q,r
+19,19,19,19,19,19,19,19,19,19,19,q,r,q,r,q
+NAME Island B
+EXT 1,15 l 1,1
+EXT 2,15 l 2,1
+EXT 3,15 m 3,1
+EXT 4,15 l 4,1
+EXT 5,15 l 5,1
+EXT 6,15 m 6,1
+EXT 7,15 l 7,1
+EXT 8,15 l 8,1
+EXT 10,15 l 10,1
+EXT 9,15 m 9,1
+PAL 4
+
+ROOM p
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,r,r,r,r,q,r,q,r,q,r,q,r,q
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,19,19,19,r,q,r,q,r,q,r,q,r,q
+q,r,19,19,19,19,19,19,q,r,q,r,q,r,q,r
+r,19,19,19,19,19,19,19,19,19,19,19,19,q,r,q
+q,19,19,19,19,19,19,19,19,19,19,19,19,19,19,r
+r,19,19,19,19,19,19,19,19,19,19,19,19,19,19,q
+q,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19
+r,q,19,19,19,19,19,19,19,19,19,19,19,19,19,19
+q,r,19,19,19,19,19,19,19,19,19,19,19,19,19,19
+r,q,r,19,19,19,19,19,19,19,19,19,19,19,19,q
+q,r,q,19,19,19,19,19,19,19,19,19,19,19,19,r
+r,q,19,19,19,19,19,19,19,19,19,19,19,19,19,q
+q,19,19,19,19,19,19,19,19,19,19,19,q,r,q,r
+19,19,19,19,19,19,19,19,19,19,19,q,r,q,r,q
+NAME Island C
+EXT 1,15 m 1,1
+EXT 2,15 m 2,1
+EXT 3,15 m 3,1
+EXT 4,15 q 4,1
+EXT 5,15 m 5,1
+EXT 6,15 m 6,1
+EXT 7,15 q 7,1
+EXT 8,15 m 8,1
+EXT 10,15 q 10,1
+EXT 9,15 m 9,1
+PAL 4
+
+ROOM q
+19,19,19,19,19,19,19,19,19,19,19,18,18,18,18,18
+18,19,19,19,19,19,19,19,19,19,19,19,18,18,18,18
+18,19,19,19,19,19,19,19,19,19,19,19,1c,1b,18,18
+18,18,19,19,19,19,19,19,19,19,19,19,18,1a,1d,18
+18,18,19,19,19,19,19,19,19,19,19,18,18,1a,18,18
+18,18,18,19,19,19,19,19,19,19,18,18,1c,1a,18,18
+18,18,18,19,19,19,19,19,19,19,18,18,18,1a,18,18
+18,18,18,18,19,19,19,19,19,19,18,18,18,1a,1d,0
+18,18,18,18,18,18,18,19,19,18,18,18,18,1a,18,18
+18,18,18,18,18,18,18,18,18,18,18,18,1c,1a,18,18
+18,18,18,18,18,18,18,18,18,18,18,18,18,1a,1d,18
+18,18,18,18,18,18,18,18,18,18,18,18,1c,1a,18,0
+18,18,18,18,18,18,18,18,18,18,18,18,18,1a,1d,19
+r,18,18,18,18,18,18,18,18,18,18,18,18,1a,19,19
+q,r,18,18,18,18,18,18,18,18,18,18,19,1a,19,19
+r,q,r,18,18,18,18,18,18,18,18,19,19,19,19,19
+NAME Shore D
+ITM 5 6,6
+ITM 2 10,2
+ITM 7 13,10
+END undefinee 13,12
+PAL 4
+
+ROOM r
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,q,r,q,r,q,r,q,r,q,r,q,r,q
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,q,r,q,r,q,r,q,r,q,r,q,r,q
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,q,r,q,r,q,r,q,r,q,r,q,r,q
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,q,r,q,r,q,r,q,r,q,r,q,r,q
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,q,r,q,r,q,r,q,r,q,r,q,r,q
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,q,r,q,r,q,r,q,r,q,r,q,r,q
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,q,r,q,r,q,r,q,r,q,r,q,r,q
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,q,r,q,r,q,r,q,r,q,r,q,r,q
+NAME Falling A
+EXT 7,12 s 7,8
+PAL 3
+
+ROOM s
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,q,r,q,r,q,r,q,r,q,r,q,r,q
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,q,r,q,r,q,r,q,r,q,r,q,r,q
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,q,r,q,r,q,r,q,r,q,r,q,r,q
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,q,r,q,r,q,r,q,r,q,r,q,r,q
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,q,r,q,r,q,r,q,r,q,r,q,r,q
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,q,r,q,r,q,r,q,r,q,r,q,r,q
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,q,r,q,r,q,r,q,r,q,r,q,r,q
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,q,r,q,r,q,r,q,r,q,r,q,r,q
+NAME Falling B
+EXT 7,8 t 7,3
+PAL 3
+
+ROOM t
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,q,r,q,r,q,r,q,r,q,r,q,r,q
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,q,r,q,r,q,r,q,r,q,r,q,r,q
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,q,r,q,r,q,r,q,r,q,r,q,r,q
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,q,r,q,r,q,r,q,r,q,r,q,r,q
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,q,r,q,r,q,r,q,r,q,r,q,r,q
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,q,r,q,r,q,r,q,r,q,r,q,r,q
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,q,r,q,r,q,r,q,r,q,r,q,r,q
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+r,q,r,q,r,q,r,q,r,q,r,q,r,q,r,q
+NAME Falling C
+EXT 7,3 h 6,8
+PAL 3
+
+ROOM u
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+e,c,a,a,a,a,a,a,a,a,c,a,a,a,a,d
+k,g,0,0,18,0,0,0,0,0,0,18,0,0,f,j
+f,g,0,0,18,0,0,0,0,0,0,18,0,0,g,f
+0,f,0,0,17,0,0,0,0,0,0,18,0,0,0,g
+0,0,0,0,18,0,0,0,0,0,0,18,0,f,0,0
+0,0,0,0,18,0,0,0,0,0,0,18,j,0,0,0
+0,0,0,0,18,0,0,f,0,0,0,18,0,0,j,0
+0,g,0,0,18,0,0,j,g,0,0,18,0,0,0,0
+j,0,0,0,0,18,18,18,18,18,18,j,f,0,0,k
+0,f,0,0,0,0,18,0,0,18,0,0,0,0,j,0
+f,0,0,0,0,0,18,g,0,18,0,0,0,0,0,g
+0,0,j,0,0,0,18,0,f,18,k,g,0,0,0,0
+j,k,0,0,0,0,18,0,0,18,0,0,0,0,0,0
+0,0,0,0,0,0,18,k,0,18,0,0,0,0,k,0
+k,0,0,0,0,0,18,0,0,18,0,0,0,0,0,j
+NAME Battle A
+ITM 3 5,4
+EXT 7,15 h 6,8
+EXT 8,15 h 6,8
+EXT 5,4 v 5,4
+PAL 1
+
+ROOM v
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+e,c,a,a,a,a,a,a,a,a,c,a,a,a,a,d
+k,g,0,0,18,0,0,0,0,0,0,18,0,0,f,j
+f,g,0,0,18,0,0,0,0,0,0,17,0,0,g,f
+0,f,0,0,18,0,0,0,0,0,0,18,0,0,0,g
+0,0,0,0,18,0,0,0,0,0,0,18,0,f,0,0
+0,0,0,0,18,0,0,0,0,0,0,18,j,0,0,0
+0,0,0,0,18,0,0,f,0,0,0,18,0,0,j,0
+0,g,0,0,18,0,0,j,g,0,0,18,0,0,0,0
+j,0,0,0,0,18,18,18,18,18,18,j,f,0,0,k
+0,f,0,0,0,0,18,0,0,18,0,0,0,0,j,0
+f,0,0,0,0,0,18,g,0,18,0,0,0,0,0,g
+0,0,j,0,0,0,18,0,f,18,k,g,0,0,0,0
+j,k,0,0,0,0,18,0,0,18,0,0,0,0,0,0
+0,0,0,0,0,0,18,k,0,18,0,0,0,0,k,0
+k,0,0,0,0,0,18,0,0,18,0,0,0,0,0,j
+NAME Battle B
+ITM 3 10,3
+EXT 7,15 h 6,8
+EXT 8,15 h 6,8
+EXT 10,3 w 10,3
+PAL 1
+
+ROOM w
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+e,c,a,a,a,a,a,a,a,a,c,a,a,a,a,d
+k,g,0,0,18,0,0,0,0,0,0,18,0,0,f,j
+f,g,0,0,18,0,0,0,0,0,0,18,0,0,g,f
+0,f,0,0,18,0,0,0,0,0,0,18,0,0,0,g
+0,0,0,0,18,0,0,0,0,0,0,18,0,f,0,0
+0,0,0,0,18,0,0,0,0,0,0,18,j,0,0,0
+0,0,0,0,18,0,0,f,0,0,0,18,0,0,j,0
+0,g,0,0,18,0,0,j,17,0,0,18,0,0,0,0
+j,0,0,0,0,18,18,18,18,18,18,j,f,0,0,k
+0,f,0,0,0,0,18,0,0,18,0,0,0,0,j,0
+f,0,0,0,0,0,18,g,0,18,0,0,0,0,0,g
+0,0,j,0,0,0,18,0,f,18,k,g,0,0,0,0
+j,k,0,0,0,0,18,0,0,18,0,0,0,0,0,0
+0,0,0,0,0,0,18,k,0,18,0,0,0,0,k,0
+k,0,0,0,0,0,18,0,0,18,0,0,0,0,0,j
+NAME Battle C
+ITM 3 8,7
+EXT 7,15 h 6,8
+EXT 8,15 h 6,8
+EXT 8,7 x 8,7
+PAL 1
+
+ROOM x
+q,r,q,r,q,r,q,r,q,r,q,r,q,r,q,r
+e,c,a,a,a,a,a,a,17,a,c,a,a,a,a,d
+k,g,0,0,18,0,0,0,0,0,0,18,0,0,f,j
+f,g,0,0,18,0,0,0,0,0,0,18,0,0,g,f
+0,f,0,0,18,0,0,0,0,0,0,18,0,0,0,g
+0,0,0,0,18,0,0,0,0,0,0,18,0,f,0,0
+0,0,0,0,18,0,0,0,0,0,0,18,j,0,0,0
+0,0,0,0,18,0,0,f,0,0,0,18,0,0,j,0
+0,g,0,0,18,0,0,j,g,0,0,18,0,0,0,0
+j,0,0,0,0,18,18,18,18,18,18,j,f,0,0,k
+0,f,0,0,0,0,18,0,0,18,0,0,0,0,j,0
+f,0,0,0,0,0,18,g,0,18,0,0,0,0,0,g
+0,0,j,0,0,0,18,0,f,18,k,g,0,0,0,0
+j,k,0,0,0,0,18,0,0,18,0,0,0,0,0,0
+0,0,0,0,0,0,18,k,0,18,0,0,0,0,k,0
+k,0,0,0,0,0,18,0,0,18,0,0,0,0,0,j
+NAME Battle D
+ITM 3 8,2
+EXT 7,15 h 6,8
+EXT 8,15 h 6,8
+EXT 8,2 r 7,12
+PAL 1
+
+TIL 10
+01111111
+00111111
+00110011
+00110011
+01111111
+01111111
+00110001
+00000000
+NAME Border BL
+WAL true
+
+TIL 11
+00011111
+00111111
+01111111
+01100000
+01101101
+01101101
+01100001
+01100001
+NAME House A Part 1
+WAL true
+
+TIL 12
+11111000
+11111100
+11111110
+00000110
+10110110
+10110110
+10000110
+10000110
+NAME House A Part 2
+WAL true
+
+TIL 13
+01111110
+11111111
+11000011
+11011011
+11000011
+11011011
+11011011
+11011011
+NAME House B
+WAL true
+
+TIL 14
+11111110
+11111111
+00000011
+00011011
+00011011
+11000011
+11000011
+11000111
+NAME House C Part 1
+WAL true
+
+TIL 15
+01111111
+11111111
+11000000
+11011000
+11011000
+11000000
+11000000
+11100000
+NAME House C Part 2
+WAL true
+
+TIL 16
+11111111
+11111111
+00000000
+00000110
+00000110
+11000000
+11000000
+11000000
+NAME House C Part 3
+WAL true
+
+TIL 17
+00111100
+01110110
+01101110
+11111111
+11111111
+10111101
+00100100
+00100100
+>
+00111100
+01101110
+01110110
+11111111
+11111111
+10111101
+00100100
+00100100
+NAME Vengeful Soldier Tile
+WAL true
+
+TIL 18
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME Invisible Wall
+WAL true
+
+TIL 19
+01111111
+11011011
+10111011
+10111110
+11110111
+11011101
+11101111
+01111111
+NAME IslandGround
+
+TIL a
+00000000
+00111000
+11101101
+10000111
+00010000
+10100010
+00001000
+00000101
+NAME CliffSide A
+WAL true
+
+TIL b
+00111100
+01100110
+01000010
+01100110
+01100110
+01100110
+00100100
+00111100
+NAME Coffin Env
+WAL true
+
+TIL c
+00111100
+11100100
+10000110
+00000011
+00100000
+00010100
+01000010
+00000000
+NAME CliffSide B
+WAL true
+
+TIL d
+00000000
+00111000
+11101100
+10000110
+00000010
+00100011
+00010001
+01000101
+NAME CliffSide C
+WAL true
+
+TIL e
+00000000
+00111100
+01100111
+01000001
+01010000
+11000100
+10001001
+10010100
+NAME CliffSide D
+WAL true
+
+TIL f
+10000000
+01000100
+00000010
+00100000
+00001000
+10000100
+00100000
+00000001
+NAME Ground A
+
+TIL g
+00100000
+01000001
+00010010
+00100000
+00000010
+10000100
+00100001
+01000000
+NAME Ground B
+WAL false
+
+TIL h
+00000000
+00101110
+01111111
+00111000
+00011011
+00011001
+00011100
+00111111
+NAME Pavillion Left
+WAL true
+
+TIL i
+00000000
+01110100
+11111110
+00011100
+11011000
+10011000
+00111000
+11111100
+NAME Pavillion Right
+WAL true
+
+TIL j
+00000100
+01001000
+00100010
+00010001
+01000000
+10001000
+00010010
+00000001
+NAME Ground C
+WAL false
+
+TIL k
+00010010
+00100000
+01000101
+00010000
+00001010
+10000001
+01000100
+00101000
+NAME Ground D
+WAL false
+
+TIL l
+11111111
+11111111
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME Stand Base
+WAL true
+
+TIL m
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11111111
+11111111
+NAME Stand Top
+WAL true
+
+TIL n
+00011000
+00111100
+00100100
+01111110
+10111101
+10011001
+00100100
+00100100
+>
+00011000
+00100100
+00111100
+01111110
+10111101
+10011001
+00100100
+00100100
+NAME Soldier NPC
+WAL true
+
+TIL o
+11111111
+11111111
+11001111
+11000011
+11111111
+11111111
+11110011
+11000011
+NAME StairCase
+
+TIL p
+00111100
+00110100
+00100100
+11111111
+10111101
+10011001
+00100100
+00100100
+>
+00111100
+00100100
+00110100
+11111111
+10111101
+10011001
+00100100
+00100100
+NAME Leader
+WAL true
+
+TIL q
+00110000
+11001100
+00000000
+00110011
+00001100
+00000000
+00110000
+11001100
+>
+11001100
+00110000
+00000000
+00001100
+00110011
+00000000
+11001100
+00110000
+NAME Cloud A
+WAL true
+
+TIL r
+00111100
+11110000
+00000000
+00001100
+00111111
+00000000
+11110000
+00111100
+>
+11110000
+00111100
+00000000
+00111111
+00001100
+00000000
+00111100
+11110000
+NAME Cloud B
+WAL true
+
+TIL s
+00111100
+01100110
+00101100
+11111111
+10111101
+10011001
+00100100
+00100100
+>
+00111100
+01101110
+00100100
+11111111
+10111101
+10011001
+00100100
+00100100
+NAME Guard
+WAL true
+
+TIL t
+00000000
+10011001
+11111111
+11111111
+10011001
+10011001
+11111111
+11111111
+NAME Fence Bottom
+WAL true
+
+TIL u
+11111110
+11001100
+11001100
+11111110
+11111110
+11001100
+11001100
+11111110
+NAME Fence Left
+WAL true
+
+TIL v
+01111111
+00110011
+00110011
+01111111
+01111111
+00110011
+00110011
+01111111
+NAME Fence Right
+WAL true
+
+TIL w
+11111111
+11111111
+10011001
+10011001
+11111111
+11111111
+10011001
+00000000
+NAME Fence Top
+WAL true
+
+TIL x
+11111110
+11111100
+11001100
+11001100
+11111110
+11111110
+10001100
+00000000
+NAME Corner BR
+WAL true
+
+TIL y
+00000000
+10001100
+11111110
+11111110
+11001100
+11001100
+11111100
+11111110
+NAME Corner TR
+WAL true
+
+TIL z
+00000000
+00110001
+01111111
+01111111
+00110011
+00110011
+00111111
+01111111
+NAME Border TL
+WAL true
+
+TIL 1a
+01100110
+01001110
+01000010
+01000010
+01110010
+01110010
+01100110
+01100110
+NAME Traversable Tree
+
+TIL 1b
+01111110
+01111110
+01000010
+01000010
+01110010
+01110010
+01100110
+01100110
+NAME Traversable Tree Top
+
+TIL 1c
+00000000
+00111100
+11111111
+00111101
+00000000
+00011100
+00111111
+00011101
+NAME Traversable Tree Leaf A
+
+TIL 1d
+00000000
+00111100
+11111111
+10111100
+00000000
+00111000
+11111100
+10111000
+NAME Traversable tree leaf B
+
+SPR A
+00011000
+00110100
+00110100
+01111110
+10111101
+10011001
+00100100
+00100100
+>
+00011000
+00101100
+00101100
+01111110
+10111101
+10011001
+00100100
+00100100
+POS 0 5,10
+
+SPR a
+00111100
+01100110
+01000010
+01100110
+01100110
+01100110
+00111100
+00111100
+NAME Coffin Interact
+DLG SPR_0
+POS a 4,4
+
+SPR b
+01111110
+10000001
+10101001
+10101101
+10000001
+01111110
+00010000
+00100000
+>
+01111110
+10000001
+10010101
+10110101
+10000001
+01111110
+00010000
+00100000
+NAME Speak
+DLG SPR_1
+POS b 9,3
+
+SPR c
+00011000
+00101100
+00100100
+01111110
+10111101
+10011001
+00100100
+00100100
+>
+00011000
+00100100
+00101100
+01111110
+10111101
+10011001
+00100100
+00100100
+NAME Sympathetic Soldier
+DLG SPR_2
+POS a 4,10
+
+SPR d
+00111100
+01100110
+01000010
+01100110
+01100110
+01100110
+00111100
+00111100
+NAME Coffin Interact A
+DLG SPR_3
+POS a 12,4
+
+SPR e
+00111100
+01101110
+00110100
+11111111
+10111101
+10011001
+00100100
+00100100
+>
+00111100
+01110110
+00101100
+11111111
+10111101
+10011001
+00100100
+00100100
+NAME Guard Talk
+DLG SPR_4
+POS a 1,6
+
+SPR f
+00111100
+01101110
+01110110
+11111111
+11111111
+10111101
+00100100
+00100100
+>
+00111100
+01110110
+01101110
+11111111
+11111111
+10111101
+00100100
+00100100
+NAME Vengeful Soldier
+DLG SPR_5
+POS g 7,2
+
+SPR g
+00000000
+00000000
+00000000
+00000000
+00000001
+10000011
+11000011
+11010011
+NAME House State A
+DLG SPR_7
+POS n 5,8
+
+SPR h
+00000000
+01000000
+11000010
+11000011
+11000011
+11000011
+11011011
+11011011
+NAME House State B
+DLG SPR_8
+POS o 5,8
+
+SPR i
+01111110
+11111111
+11000011
+11011011
+11000011
+11011011
+11011011
+11011011
+DLG SPR_9
+POS p 5,8
+
+SPR j
+01111110
+10000001
+10101001
+10101101
+10000001
+01111110
+00010000
+00100000
+>
+01111110
+10000001
+10010101
+10110101
+10000001
+01111110
+00010000
+00100000
+NAME Regarding the village
+DLG SPR_6
+POS d 10,6
+
+ITM 0
+00011000
+00011000
+01111110
+00101100
+00101100
+00101100
+00111100
+00011000
+NAME Blade of Logos
+DLG ITM_0
+
+ITM 1
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME AdvanceMent
+DLG ITM_1
+
+ITM 2
+01111110
+10000001
+10101001
+10101101
+10000001
+01111110
+00100000
+01000000
+>
+01111110
+10000001
+10010101
+10110101
+10000001
+01111110
+00100000
+01000000
+NAME Talk
+DLG ITM_2
+
+ITM 3
+00011000
+00111100
+00101100
+00101100
+00101100
+01111110
+00011000
+00011000
+>
+00010010
+00001001
+00100100
+00111110
+11100011
+11111111
+00111110
+00100000
+NAME Attack
+DLG ITM_3
+
+ITM 4
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME Heckling
+DLG ITM_5
+
+ITM 5
+00011100
+00110110
+01110011
+11110001
+10000011
+11000110
+01101100
+00111000
+NAME Letter
+DLG ITM_4
+
+ITM 6
+01111111
+11100111
+11011111
+11111101
+11010111
+10111011
+11010111
+01111111
+NAME Blacked Out
+DLG ITM_6
+
+ITM 7
+01100110
+01001110
+01000010
+01000010
+01110010
+01110010
+01100110
+01100110
+NAME Trunk
+DLG ITM_8
+
+ITM 8
+00000000
+00111100
+11100111
+00111101
+00000000
+00011100
+00110111
+00011101
+NAME Leaves
+DLG ITM_9
+
+ITM 9
+00000000
+00111100
+11100111
+10111100
+00000000
+00111000
+11101100
+10111000
+NAME Leaves B
+
+ITM a
+01111110
+01111110
+01000010
+01000010
+01110010
+01110010
+01100110
+01100110
+NAME Top
+
+ITM b
+00111100
+01111110
+11111011
+11110001
+11111011
+11111111
+01111110
+00111100
+NAME Loathsome Eye
+DLG ITM_7
+
+DLG ITM_0
+THE TIME HAS COME! DEFEND YOURSELF!
+
+DLG ITM_1
+"""
+{
+  - {item "AdvanceMent"} == 1 ?
+    As time passes, it begins to feel as though this war may never end.
+  - {item "AdvanceMent"} == 2 ?
+    Countless of dead everyday, and it feels hopeless at times...
+  - {item "AdvanceMent"} == 3 ?
+    But that's not what we are here for today, today we celebrate!
+  - {item "AdvanceMent"} == 4 ?
+    These people are the first who have managed to die not from battle
+  - {item "AdvanceMent"} == 5 ?
+    But rather disease! A blessing that these people were so lucky!
+  - {item "AdvanceMent"} == 6 ?
+    Lucky enough to die painlessly and without harm
+  - {item "AdvanceMent"} == 7 ?
+    These are the cleanest bodies we've ever had the pleasure to dropping
+  - {item "AdvanceMent"} == 8 ?
+    And who do we have to thank other than our resident Doctor
+  - {item "AdvanceMent"} == 9 ?
+    as such I would like the doctor to come up and give some words
+  - {item "AdvanceMent"} == 10 ?
+    Please welcome them up to the stand. Our merciful expert.
+  - {item "AdvanceMent"} == 11 ?
+
+  - {item "AdvanceMent"} == 12 ?
+
+}
+"""
+
+DLG ITM_2
+"""
+{
+  - {item "Talk"} == 1 ?
+    I don't know what to say, other than sorry... Sorry I wasn't able to do more.
+  - {item "Talk"} == 2 ?
+    What is It that you want from me? what do you want for me to face?
+  - {item "Talk"} == 3 ?
+    Your sins, your failures. You could have saved them but you did not. And now you shower in praise and adoration, for acts that should be hated instead. But I see it as it is, and you will face in me your errors. Take up the blade and fight me. Face me and perish.
+  - {item "Talk"} == 4 ?
+    {wvy}The winds blow on mercilessly, and time simply passes. I keep track through any means I can. I stare into the distance and below, to see if there is anywhere other than here. As time passes I begin to think more and more that this is a punishment of some form, and that I am to suffer here for eternity, with no company other than the madness within{wvy}
+  - {item "Talk"} == 5 ?
+    {wvy}Time continues to pass and I can see as a tree begins to peek its way into my view. How long it has been I can't be certain, But it feels like years. Years with no company but my own self, though I sometimes feel as those there are others with me, telling me to forget, to be carried off{wvy}
+  - {item "Talk"} == 6 ?
+    {wvy}The Tree has finally reached up into my reach, It feels as though its meant for me. Does it wan't me to leave here? Does it perhaps believe I have suffered enough? These thoughts are those of one gone mad, the trees care not for the lives of those such as I, but I'd be a fool to pass this up.{wvy}
+  - {item "Talk"} == 7 ?
+    {wvy}The storm has died down, It feels like it is the time to go. It is now or never. I don't know what might await me below, but nothing could be worse than lying here with my thoughts. I don't age here, so if I am to find freedom I must leave... but since when have I begun seeking freedom? it is a strange emotion, but here it is. 
+     leave{wvy}
+}
+"""
+
+DLG ITM_3
+"""
+{
+  - {item "Attack"} == 1 ?
+    Your attacks hardly leave a scratch!
+  - {item "Attack"} == 2 ?
+    This pain is nothing compared to what has already happened!
+  - {item "Attack"} == 3 ?
+    Your attacks are as weak as your will!
+  - {item "Attack"} == 4 ?
+    If I'm to fall then you're coming down with me!
+}
+"""
+
+DLG SPR_0
+This is ** *****'s Grave, I can't bring myself to look at it for long. Was there nothing I could have done better?
+
+DLG SPR_3
+Lais' Kid, I could never apologize enough for not being able to save them.
+
+DLG SPR_1
+{wvy}They no longer see me as a regular doctor, my profession has become twisted by the war and the death it has brought, I don't think they understand what death actually is any longer{wvy}
+
+DLG SPR_2
+Thanks Doctor, Sherie couldn't have managed without your help. She wasn't much of a battler.
+
+DLG SPR_4
+Ey Doc. You did well, but you could have let it get me two though.
+
+DLG ITM_4
+"""
+{
+  - {item "Letter"} == 1 ?
+    Come to the northern cliffs. You have to face them Doctor. There will be no saving you otherwise. - ******
+  - {item "Letter"} == 2 ?
+
+  - {item "Letter"} == 3 ?
+
+  - {item "Letter"} == 4 ?
+
+  - {item "Letter"} == 5 ?
+
+}
+"""
+
+DLG SPR_5
+Take the blade and face me, or do you fear your errors so much.
+
+DLG ITM_5
+"""
+{
+  - {item "Heckling"} == 1 ?
+    Where are you going coward?
+  - {item "Heckling"} == 2 ?
+    Come back here!
+  - {item "Heckling"} == 3 ?
+    FACE ME
+  - {item "Heckling"} == 4 ?
+    You bring further shame on those who died by turning in fear
+  - {item "Heckling"} == 5 ?
+    Even if you run I will hunt you down, I'll chase you to the ends of the world.
+  - {item "Heckling"} == 6 ?
+    It doesn't matter what you do, even every time you close your eyes I'll still be there.
+  - {item "Heckling"} == 7 ?
+    So will they
+  - {item "Heckling"} == 8 ?
+    Cowardly, or perhaps wise to the reality of your situation.
+}
+"""
+
+DLG ITM_6
+"""
+{
+  - {item "0"} == 1 ?
+    I had fought and failed and so I fell, there was nothing else to it, nothing deeper. I wasn't so noble that I'd give in myself.  I knew my error and still I fought, for I was a selfish coward, who in spite of taking so many lives still valued my own.
+  - {item "Blade of Logos"} == 0 ?
+    I couldn't bring myself to face them. My errors were there but what good would fighting do? I turned my back in the hopes they'd take me and end me without my knowing. Is that what happened? I could only hope.
+}{
+  - {item "Blacked Out"} == 0 ?
+    But the time for reminiscing was over, and I had to face reality, once I woke I found myself in an unfamiliar place, an Island below the cliffs, alone, I chose to explore, would I die here? or was I to live here in agony, a fate worse than death perhaps, but a fate I deserved.
+  - {item "Blacked Out"} == 2 ?
+    The earth had turned a colour before the gap in the storm... if I took a singe step forward... I could probably end it all... my misery.
+}
+"""
+
+DLG ITM_7
+The stone was polished to a sheen. It looked almost like an eye. The way it stared... it was as if it saw right through and into the soul. They couldn't bear to be apart from it so they took it in their hand and kept it close to their heart.
+
+DLG ITM_8
+"""
+{
+  - {item "0"} == 1 ?
+    The tree held firm, but the doctor didn't feel as though it really mattered anymore. They had come down on a whim but now they knew what to do, they were determined to do so. The blade was in their hand. The very blade used in the battle so long ago now, the blade that would be their end.
+  - else ?
+    The tree held firm, and the doctor had a strange feeling. They felt something they hadn't for a long time. Hope. There was hope for the future. Though they had turned away from the blade back then, they had forged their soul into a new one here. A blade that would not fail ever again, should a situation such as the last took place ever again. They no longer needed to turn from it, they would heal as they were meant to.
+  - {item "Loathsome Eye"} == 1 ?
+    It bore into their soul. It kept on looking and didn't let them forget. It was the eye of those they'd wronged. Deep and abyssal. Any time they felt as though they could escape their regrets the eye would stare and remind them of what they'd done. 
+}
+"""
+
+DLG ITM_9
+The storm is too powerful. The branches would simply break if I tried climbing down. I'll need to wait till this endless storm dies down.
+
+DLG SPR_6
+{wvy}The village is empty, everyone is currently at the funeral ceremony, waiting for me to speak...{wvy} {shk}but can I bring myself to say anything? this is my home, maybe I should just go in and lock myself away{shk}
+
+DLG SPR_7
+{wvy}As time passed I decided to try building myself a shelter, but it really isn't my strength it would seem{wvy}
+
+DLG SPR_8
+{wvy}With enough time and determination I might actually make a home out of this rubble. I am astounded at times that I haven't died from exposure, but it doesn't seem to rain here, and though the winds can be harsh I don't seem to sicken{wvy}
+
+DLG SPR_9
+{wvy}It took a really long time, but I finally managed to build a viable shelter. Though unnecessary due to the bizarre nature of this island, it served as a wonderful distraction, and helped keep me sane{wvy}
+
+END 0
+Though the storm was ever present, they felt as though they could see a gap in it. So they took the step forward. A step they hoped would bring them to their end. But how cruel the world is, for they did not die and instead simply continued to fall. they fell and fell, until there was nothing to think about, and all thought turned to nothing.
+
+END undefined
+I couldn't bring myself to do it... I locked myself in my home and drowned in self loathing. I could hear them outside, praising and cheering for me, for acts I should have been punished for. For my failures. But every once in a wile I saw eyes, full of loathing, and disdain. Were they the eyes of one not intoxicated in death? one who saw it as it should be seen and who realized how disdainful my acts truly were? or were they my own eyes, reflecting back on me from the window glass, presenting to me what I wish others would, but that only I felt.
+
+END undefinee
+On they walked. On to a new land. What awaited them there only they knew. Their eyes filled with conviction, the conviction to finally do what they needed to, what they should have done then.
+
+VAR a
+42
+
